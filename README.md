@@ -5,6 +5,12 @@
   - [Raymarching](#raymarching)
   - [Raycasting](#raycasting)
   - [Rasterization](#rasterization)
+- [Digital Signal Processing](#digital-signal-processing)
+  - [Image Processing](#image-processing)
+  - [Sound Processing](#sound-processing)
+- [Physics](#physics)
+  - [Integrations](#integrations)
+  - [Rigid Bodies](#rigid bodies)
 
 # Computer Graphics
 
@@ -40,3 +46,25 @@
 
 * [Write a 3D soft engine from scratch in C#/Js/Typescript](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 * [Triangle Rasterization in C++](http://joshbeam.com/articles/triangle_rasterization/)
+
+# Digital Signal Processing
+
+* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/ch1/1.htm)
+
+## Image Processing
+
+## Sound Processing
+
+# Physics
+
+## Integrations
+
+* [Integration by Example - Euler vs Verlet vs Runge-Kutta](http://codeflow.org/entries/2010/aug/28/integration-by-example-euler-vs-verlet-vs-runge-kutta/)
+
+## Rigid Bodies
+
+## Verlet
+
+* [Hard Constraints, Easy Solutions](http://codeflow.org/entries/2010/sep/01/hard-constraints-easy-solutions/)
+* [Verlet collision with impulse preservation](http://codeflow.org/entries/2010/nov/29/verlet-collision-with-impulse-preservation/)
+
