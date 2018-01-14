@@ -15,12 +15,14 @@
 - [Generative Systems](#generative-systems)
   - [Cellular Automatons](#cellular-automatons)
   - [Boids]()
-- [Neural Networks]()
+- [Neural Networks](#neural-networks)
   - [Multilayer Perceptron]()
   - [Convolutional Neural Networks]()
+  - [Recurrent Neural Networks]()
 - [Algorithmics]()
   - [Graphs]()
   - [Lossless Compression]()
+- [4D]()
 
 # Computer Graphics
 
@@ -102,3 +104,26 @@
 * [Cellular Automaton](http://mathworld.wolfram.com/CellularAutomaton.html)
 * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
 * [The Wireworld computer](https://www.quinapalus.com/wi-index.html)
+
+
+# Neural Networks
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+
+## Convolutional Neural Networks
+
+* [Deep learning](http://neuralnetworksanddeeplearning.com/chap6.html)
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
+
+## Recurrent Neural Networks
+
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+
+# 4D
+
+* [4D Visualization](http://eusebeia.dyndns.org/4d/vis/01-intro)
+* [Visualizing 4D Rotations](http://eusebeia.dyndns.org/4d/vis/10-rot-1)
+* [Four-Space Visualization of 4D Objects](http://hollasch.github.io/ray4/Four-Space_Visualization_of_4D_Objects.html)
+
+
