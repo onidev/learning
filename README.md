@@ -1,10 +1,10 @@
 # Table of content
 
 - [Computer Graphics](#computer-graphics)
- - [Raytracing](#raytracing)
- - [Raymarching](#raymarching)
- - [Raycasting](#raycasting)
- - [Rasterization](#rasterization)
+  - [Raytracing](#raytracing)
+  - [Raymarching](#raymarching)
+  - [Raycasting](#raycasting)
+  - [Rasterization](#rasterization)
 
 # Computer Graphics
 
