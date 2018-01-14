@@ -12,6 +12,15 @@
 - [Physics](#physics)
   - [Integrations](#integrations)
   - [Rigid Bodies](#rigid-bodies)
+- [Generative Systems](#generative-systems)
+  - [Cellular Automatons](#cellular-automatons)
+  - [Boids]()
+- [Neural Networks]()
+  - [Multilayer Perceptron]()
+  - [Convolutional Neural Networks]()
+- [Algorithmics]()
+  - [Graphs]()
+  - [Lossless Compression]()
 
 # Computer Graphics
 
@@ -85,3 +94,11 @@
 * [Hard Constraints, Easy Solutions](http://codeflow.org/entries/2010/sep/01/hard-constraints-easy-solutions/)
 * [Verlet collision with impulse preservation](http://codeflow.org/entries/2010/nov/29/verlet-collision-with-impulse-preservation/)
 
+
+# Generative Systems
+
+## Cellular Automatons
+
+* [Cellular Automaton](http://mathworld.wolfram.com/CellularAutomaton.html)
+* [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+* [The Wireworld computer](https://www.quinapalus.com/wi-index.html)
