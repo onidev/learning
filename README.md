@@ -17,12 +17,12 @@
   - [Boids]()
 - [Neural Networks](#neural-networks)
   - [Multilayer Perceptron]()
-  - [Convolutional Neural Networks]()
+  - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Recurrent Neural Networks]()
 - [Algorithmics]()
   - [Graphs]()
   - [Lossless Compression]()
-- [4D]()
+- [4D](#4d)
 
 # Computer Graphics
 
@@ -103,6 +103,7 @@
 
 * [Cellular Automaton](http://mathworld.wolfram.com/CellularAutomaton.html)
 * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+* [The Game of Life](http://web.stanford.edu/~cdebs/GameOfLife/)
 * [The Wireworld computer](https://www.quinapalus.com/wi-index.html)
 
 
