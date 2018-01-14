@@ -10,10 +10,18 @@
 
 ## Raytracing
 
+### Basics
+
 * [Introduction to Ray Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/raytracing-algorithm-in-a-nutshell)
-* [riting a Raytracer in Rust](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/)
+* [Writing a Raytracer in Rust](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/)
+* [Writing A Ray Tracer in Go - 5 parts](https://www.markphelps.me/tags/ray-tracer/)
 * [Simple GPU raytracing](http://iquilezles.org/www/articles/simplegpurt/simplegpurt.htm)
 * [A minimal raytracer (in C, for IOCCC)](https://mzucker.github.io/2016/08/03/miniray.html)
+
+### Global Illumination
+
+* [smallpt: Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
+* [Global Illumination and Path Tracing (with C++ code)](https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing)
 
 ## Raymarching
 
